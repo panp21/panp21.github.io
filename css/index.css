@@ -41,7 +41,14 @@ h4{
 
 .picresize-ver{
 	float: left;
-	width: 32%;
+	width: 32.33%;
+	margin-right: 1%;
+	margin-bottom: 1%
+}
+
+.picresize-pano{
+	float: left;
+	width: 99%;
 	margin-right: 1%;
 	margin-bottom: 1%
 }
